@@ -8,17 +8,18 @@ id | Nombre  | Grupo | Página personal |
 2 | | | 
 3 | | | 
 4 | | | 
-5 | | | 
+5 |Jesús Marin  |Profe 2º DAW | http://xjesus.net 
 6 |Nico |DAW |https://www.linkedin.com/in/nico-oligschlager-baum-43a915203/ | 
 7 | | | 
 8 | | | 
-9 | | | 
-10 | | | 
+9 |Andrés |DAW | 
+10 | Juan Jesús | 2ºDAW | 
 11 | | | 
-12 | | | 
+12 | Paula Arrabal | 2ºDAW | 
 13 | | | 
 14 | | | 
 15 | | | 
+16 |Pablo |DAW | <A HREF="GOOGLE.COM">google</a>
 
 
 Prof | Joaquin | UAL | http://github.com/ualjjcanada 
