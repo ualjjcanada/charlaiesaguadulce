@@ -18,7 +18,7 @@ id | Nombre  | Grupo | Página personal |
 12 | | | 
 13 | | | 
 14 | | | 
-15 | | | 
+15 | David Jiménez| DAM (distancia) | https://github.com/AntDVD28 
 
 
 Prof | Joaquin | UAL | http://github.com/ualjjcanada 
