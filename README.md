@@ -4,7 +4,7 @@
 
 id | Nombre  | Grupo | Página personal |  
 -- | ----------------- | ----------------- | ----------------- 
-1 | | | 
+1 | Aarón Navarro Navarro | 2º DAW | https://www.linkedin.com/in/aaron-navarro-navarro-programmer/
 2 | | | 
 3 | | | 
 4 | | | 
