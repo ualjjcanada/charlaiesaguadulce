@@ -15,7 +15,7 @@ id | Nombre  | Grupo | Página personal |
 9 | | | 
 10 | | | 
 11 | | | 
-12 | Paula Arrabal Piedra| 2ºDAW | 
+12 | Paula Arrabal | 2ºDAW | 
 13 | | | 
 14 | | | 
 15 | | | 
