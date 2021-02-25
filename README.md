@@ -17,12 +17,12 @@ id | Nombre  | Grupo | Página personal |
 11 | | | 
 12 | Paula Arrabal | 2ºDAW | 
 13 | | | 
-14 | | | 
+14 |Ana | DAW Distancia |
 15 | David Jiménez| DAM (distancia) | https://github.com/AntDVD28 
 16 |Pablo |DAW | <A HREF="GOOGLE.COM">google</a>
 
 
-Prof | Joaquin | UAL | http://github.com/ualjjcanada 
+Prof | Joaquin | UAL | http://github.com/ualjjcanada
 
 ## Más info
 * [Enlaces de interés](enlaces.md)
