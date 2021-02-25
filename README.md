@@ -13,9 +13,9 @@ id | Nombre  | Grupo | Página personal |
 7 | | | 
 8 | | | 
 9 | | | 
-10 | | | 
+10 | | |
 11 | | | 
-12 | | | 
+12 | Darío | DAW | https://github.com/dajramirez
 13 | | | 
 14 | | | 
 15 | | | 
