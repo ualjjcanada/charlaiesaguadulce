@@ -9,7 +9,7 @@ id | Nombre  | Grupo | Página personal |
 3 | | | 
 4 | | | 
 5 | | | 
-6 | | | 
+6 | | |Nico | DAW | https://www.linkedin.com/in/nico-oligschlager-baum-43a915203/
 7 | | | 
 8 | | | 
 9 | | | 
